@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-applewatch",
+  "version": "0.6.0",
+  "description": "Fork of Telerik Apple Watch plugin",
+  "cordova": {
+    "id": "cordova-plugin-applewatch",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/walidowais/cordova-plugin-applewatch.git"
+  },
+  "keywords": [
+    "cordova",
+    "applewatch",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Telerik",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/walidowais/cordova-plugin-applewatch/issues"
+  },
+  "homepage": "https://github.com/walidowais/cordova-plugin-applewatch#readme",
+  "dependencies": {
+    "xcode": "^1.0.0"
+  }
+}
